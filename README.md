@@ -48,6 +48,6 @@
 
 ## 開発環境
 
-- Arduino IDE
+- PlatformIO
 - M5Unified Library
 - M5UnitGLASS2 Library
